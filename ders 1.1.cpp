@@ -1,3 +1,4 @@
+//dosya adını kullanıcıdan alıyoruz fakat uzantısında sıkıntı yaşanabilir
 #include <iostream>
 #include <fstream>
 using namespace std;
